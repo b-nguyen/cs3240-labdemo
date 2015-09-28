@@ -1,7 +1,5 @@
 # btn3gj
-
-def greeting(msg):
-    print(msg)
+from helper import *
 
 if __name__ == "__main__":
     greeting("hello")
